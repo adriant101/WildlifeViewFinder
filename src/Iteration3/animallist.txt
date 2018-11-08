@@ -1,0 +1,5 @@
+Lion,Africa,Dangerous cat,file:src\\lion.jpg
+Elephant,Africa and Asia,Gentle giant,file:src\\elephant.jpg
+Homosapien,Earth,intelligent but deadly,file:src\\homosapien.jpg
+Humpback Whale,Ocean,Beautiful,file:src\\humpback.jpg
+Rattlesnake,North America, venomous,file:src\\rattle.jpg 
